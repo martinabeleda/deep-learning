@@ -1,2 +1,2 @@
 # deep-learning
-Collection of deep learning models
+Collection of deep learning training frameworks and models
