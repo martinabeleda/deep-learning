@@ -4,10 +4,11 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 
 Code from Chollet, F. "Deep Learning with Python"
 """
-import os, shutil
+import os
+import shutil
 
 # path to the directory where the original dataset was uncompressed
-original_dataset_dir = '/Users/martin.abeleda/Development/data/cats-vs-dogs/train')
+original_dataset_dir = '/Users/martin.abeleda/Development/data/cats-vs-dogs/train'
 
 # directory to store the smaller dataset
 base_dir = os.path.join(os.getcwd(), 'cats_and_dogs_small')

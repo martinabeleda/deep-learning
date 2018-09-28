@@ -1,3 +1,5 @@
+""" CNN MNIST example using tensorflow estimator API """
+
 import numpy as np
 import tensorflow as tf
 
